@@ -1,9 +1,16 @@
 appnope==0.1.0
 backports-abc==0.4
 backports.ssl-match-hostname==3.4.0.2
+blinker==1.4
 certifi==2015.11.20.1
 decorator==4.0.4
 Flask==0.10.1
+Flask-Login==0.3.2
+Flask-Mail==0.9.1
+Flask-Principal==0.4.0
+Flask-Security==1.7.5
+Flask-SQLAlchemy==2.1
+Flask-WTF==0.12
 functools32==3.2.3.post2
 gnureadline==6.3.3
 gunicorn==19.4.1
@@ -23,6 +30,7 @@ nbconvert==4.1.0
 nbformat==4.0.1
 notebook==4.0.6
 numpy==1.10.1
+passlib==1.6.5
 path.py==8.1.2
 pexpect==4.0.1
 pickleshare==0.5
@@ -36,8 +44,10 @@ qtconsole==4.1.1
 simplegeneric==0.8.1
 singledispatch==3.4.0.3
 six==1.10.0
+SQLAlchemy==1.0.9
 terminado==0.5
 tornado==4.3
 traitlets==4.0.0
 Werkzeug==0.11.2
 wheel==0.24.0
+WTForms==2.0.2
